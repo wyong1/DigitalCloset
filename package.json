@@ -15,6 +15,7 @@
   "dependencies": {
     "@expo/vector-icons": "^14.0.0",
     "@react-navigation/native": "^6.0.2",
+    "@use-gesture/react": "^10.3.0",
     "expo": "~50.0.7",
     "expo-font": "~11.10.3",
     "expo-linking": "~6.2.2",
@@ -29,7 +30,8 @@
     "react-native-safe-area-context": "4.8.2",
     "react-native-screens": "~3.29.0",
     "react-native-swiper": "^1.6.0",
-    "react-native-web": "~0.19.6"
+    "react-native-web": "~0.19.6",
+    "react-spring": "^9.7.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
